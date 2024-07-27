@@ -1,7 +1,5 @@
 # Spotify Clone
 
-![Spotify Clone Screenshot](screenshot.png)
-
 ## Introduction
 Welcome to the Spotify Clone project! This is a simple music player application built using HTML, CSS, and JavaScript. It replicates some basic functionalities of Spotify, including play, pause, and track navigation.
 
