@@ -20,6 +20,6 @@ To view and run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/Vijay-Wagh123/spotify-clone.git
 
 #Contact:vijuwagh33@gmail.com
